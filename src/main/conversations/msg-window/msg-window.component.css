@@ -6,3 +6,24 @@
   height: 36rem;
   background-color: #efeae2;
 }
+
+.inmsg {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: white;
+  align-self: flex-start;
+  margin: 1rem;
+}
+.outmsg {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: #d9fdd3;
+  align-self: flex-end;
+  margin: 1rem;
+}
